@@ -515,9 +515,8 @@ We now have a fairly plain website but it's a website! Let's add some style. Her
       ```HTML
       <head>
           <title>Witty title you added in step 2</title>
-          <link rel="stylesheet" href="style.css">
-      </head>
-      ```
+          <link rel="stylesheet" href="style css">
+    </head>
 
        </details>
        <br>
