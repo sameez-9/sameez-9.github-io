@@ -186,7 +186,7 @@ Open the workspace where you were working on your website from the 'first websit
 
 ## Lesson Steps
 
-### **TODO 1 :** _Create Portfolio Page_
+### **TODO 1 :** _Create Portfolio Pag\e_
 
 We're going to build the page from scratch:
 
